@@ -1,2 +1,4 @@
 The following people attended the meeting:
-Tom Perel
+Tom Perel - Python
+
+Nathan Clark
